@@ -40,11 +40,11 @@
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Chonburi&family=Noto+Sans+Thai:wght@400;700&display=swap');
-  
+
 h1 {
   font-family: 'Noto Sans Thai', sans-serif;
 }
-  
+
 button {
   font-family: 'Noto Sans Thai', sans-serif;
   background-color: black;
@@ -52,7 +52,7 @@ button {
   border-radius: 5px;
   font-family: 'Noto Sans Thai', sans-serif;
 }
-  
+
 button:hover {
   background: #ababab;
   color: white ;
@@ -74,6 +74,6 @@ div {
   color: white;
   border-radius: 5px;
   font-family: 'Noto Sans Thai', sans-serif;
-    
+
   }
 </style>
